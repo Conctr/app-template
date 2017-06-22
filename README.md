@@ -1,3 +1,6 @@
+This is a sample implementation of a web application using the Conctr Api
+
+To set up the application follow the steps below:
 1) You will need a google client id, a Conctr application id and api key and a valid consumer account for the application.
 
 2) Configure the application using the params above by replacing the relevant fields in the scripts/global.js
